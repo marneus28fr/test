@@ -1,4 +1,3 @@
 # Titre : Second file
 # Extension : .txt
-
-Test des branches.
+Second fichier texte
